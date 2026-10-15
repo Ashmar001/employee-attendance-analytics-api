@@ -1,0 +1,10 @@
+.venv/
+.venv-1/
+.venv-2/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.vscode/
+PROBLEM_STATEMENT.docx
